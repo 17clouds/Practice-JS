@@ -5,3 +5,6 @@
 
 ## №_2 Timer
 ### This project is aimed at the practice of methods such as setInterval() and setTimeout() and clearInterval().
+
+## №_3 Exchanger 
+### This project is aimed at learning how to work with json
